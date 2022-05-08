@@ -3,7 +3,7 @@ id: WSO2
 info:
   name: WSO2 SSRF
   author: Amnotacat
-  severity: high-critical
+  severity: critical
   description: Unauthenticated SSRF
   reference: Does it matter :)
   tags: tags
